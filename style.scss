@@ -1,0 +1,11 @@
+* {
+  margin: 0; /* Remove margens externas */
+  padding: 0; /* Remove preenchimento interno */
+  box-sizing: border-box; /* Faz com que padding e borda sejam incluídos na largura/altura do elemento */
+}
+
+/* Define o fundo preto para o corpo da página */
+body {
+  background-color: black;
+}
+
